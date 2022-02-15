@@ -6,6 +6,6 @@ pedir parar o codigo enviar para um determinado número que estara no codigo fon
 1-1 Pandas, responsavel pela integração do python e Excel
 1-2 Twilio responsavel por mandar o sms para o celular.
 1-3 Openpyxl responsavel pela integração do python e Excel.
-
+1-4 Vale ressaltar que é necessario a criação de uma conta no site da twiliio "https://www.twilio.com/docs/libraries/python" para inserir no codigo fonte onde estar especificado.
 
 
